@@ -1,22 +1,39 @@
-# ¡Hola, soy Victor Gomez! 👋
+# Hi, I'm Victor Gomez! 👋
 
-Soy un desarrollador full stack apasionado por la creación de aplicaciones web y la inteligencia artificial. Me encanta aprender nuevas tecnologías y compartir mi conocimiento con la comunidad.
+I'm a full-stack developer passionate about building web applications and Minecraft mods. I love exploring new technologies and sharing my knowledge with the community.
 
-## 🔧 Tecnologías y herramientas
-- JavaScript, Python, C++
-- React, Node.js, Django
-- Docker, Kubernetes, AWS
+---
 
-## 📈 Mis estadísticas de GitHub
+## 🖥️🌐 Hosting Company
+
+I'm currently developing my own hosting company, **PonchisaoHosting**. While the payment platform is still in progress (visit the site at [ponchisaohosting.xyz](https://ponchisaohosting.xyz)), I'm already offering hosting services! If you're interested, feel free to reach out using the links below for more information or inquiries.
+
+---
+
+## 🔧 Technologies and Tools
+- **Languages:** JavaScript, Python, C++, SQL, Java, Bash, PHP
+- **Web Technologies:** HTML, CSS
+- **Frameworks & Libraries:** Node.js, React
+
+---
+
+## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ponchisao326&show_icons=true&theme=radical)
 
-## 🏆 Mis lenguajes más usados
+---
+
+## 🏆 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ponchisao326&layout=compact&theme=radical)
 
-## 🌱 Actualmente aprendiendo
-- Machine Learning con Python
-- Desarrollo móvil con React Native
+---
 
-## 📫 Cómo contactarme
-- [LinkedIn](https://www.linkedin.com/in/johndoe)
-- [Twitter](https://twitter.com/johndoe)
+## 🌱 Currently Learning
+- Cross-Platform Application Development (CPAD)
+
+
+---
+
+## 📫 How to Reach Me
+- 🌐 [Website](https://victorgponce.com/)
+- 📸 [Instagram](https://instagram.com/viictorgponce)
+- 💬 [Discord](https://discord.gg/TZjsTn4v) (User: ponchisao326)
