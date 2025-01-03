@@ -11,9 +11,9 @@ I'm currently developing my own hosting company, **PonchisaoHosting**. While the
 ---
 
 ## 🔧 Technologies and Tools
-- **Languages:** JavaScript, Python, C++, SQL, Java, Bash, PHP
+- **Languages:** JavaScript, Python, C++, SQL, Java, Bash, PHP, RUST
 - **Web Technologies:** HTML, CSS
-- **Frameworks & Libraries:** Node.js, React
+- **Frameworks & Libraries:** Node.js, React, RUST WASM
 
 ---
 
