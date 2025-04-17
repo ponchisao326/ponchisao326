@@ -16,6 +16,11 @@ I'm currently developing my own hosting company, **PonchisaoHosting**. While the
 - **Frameworks & Libraries:** Node.js, React, RUST WASM
 
 ---
+## 🔭 Currently working on..
+- A Fan-Made mod of Permadeath (Original design by KernelFreeze): [PERMADEATH-MOD](https://github.com/ponchisao326/PERMADEATH-MOD)
+- A program for performing memory manipulation on running processes to search for, filter, and modify specific values: [MEM-EDIT](https://github.com/ponchisao326/MemEdit)
+  
+---
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ponchisao326&show_icons=true&theme=radical)
@@ -29,7 +34,6 @@ I'm currently developing my own hosting company, **PonchisaoHosting**. While the
 
 ## 🌱 Currently Learning
 - Cross-Platform Application Development (CPAD)
-
 
 ---
 
