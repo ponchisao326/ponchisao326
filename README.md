@@ -19,6 +19,7 @@ I'm currently developing my own hosting company, **PonchisaoHosting**. While the
 ## 🔭 Currently working on..
 - A Fan-Made mod of Permadeath (Original design by KernelFreeze): [PERMADEATH-MOD](https://github.com/ponchisao326/PERMADEATH-MOD)
 - A program for performing memory manipulation on running processes to search for, filter, and modify specific values: [MEM-EDIT](https://github.com/ponchisao326/MemEdit)
+- A minecraft mod to enable or disable the rendering of specific entities directly through a user-friendly configuration menu: [Entity Render Disabler](https://github.com/ponchisao326/EntityRenderDisabler/)
   
 ---
 
