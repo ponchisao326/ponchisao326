@@ -16,12 +16,13 @@ I'm currently developing my own hosting company, **PonchisaoHosting**. While the
 - **Frameworks & Libraries:** Node.js, React, RUST WASM
 
 ---
+
 ## 🔭 Currently working on..
 - A Fan-Made mod of Permadeath (Original design by KernelFreeze): [PERMADEATH-MOD](https://github.com/ponchisao326/PERMADEATH-MOD)
+- A custom minecraft launcher created in rust with Tauri 2.0 and custom libraries: [PERMADEATH-LAUNCHER](https://github.com/PERMADEATH-PROJECT/PERMADEATH-LAUNCHER)
 - A hole final degree project based on the Permadeath mod: [PERMADEATH-PROJECT](https://github.com/PERMADEATH-PROJECT)
-- A program for performing memory manipulation on running processes to search for, filter, and modify specific values: [MEM-EDIT](https://github.com/ponchisao326/MemEdit)
 - A minecraft mod to enable or disable the rendering of specific entities directly through a user-friendly configuration menu: [Entity Render Disabler](https://github.com/ponchisao326/EntityRenderDisabler/)
-  
+
 ---
 
 ## 📈 GitHub Stats
