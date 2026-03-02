@@ -26,12 +26,12 @@ I'm currently developing my own hosting company, **PonchisaoHosting**. While the
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ponchisao326&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-two-beta-58.vercel.app/api?username=ponchisao326&show_icons=true&theme=radical)
 
 ---
 
 ## 🏆 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ponchisao326&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-two-beta-58.vercel.app/api/top-langs/?username=ponchisao326&layout=compact&theme=radical)
 
 ---
 
