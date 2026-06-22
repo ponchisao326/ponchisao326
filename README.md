@@ -1,6 +1,6 @@
 # Hi, I'm Victor Gomez! 👋
 
-I'm a full-stack developer passionate about building web applications and Minecraft mods. I love exploring new technologies and sharing my knowledge with the community. Currently, I work as a **Programmer for DiosesMC** and as a **DevOps Engineer for Folagor03**, ensuring maximum performance and stability for large communities.
+I'm a full-stack developer passionate about building web applications and Minecraft mods. I love exploring new technologies and sharing my knowledge with the community. Currently, I work as a **Developer for DiosesMC** and as a **DevOps Engineer for Folagor03**, ensuring maximum performance and stability for large communities.
 
 ---
 
