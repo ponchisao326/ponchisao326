@@ -1,7 +1,6 @@
 # Hi, I'm Victor Gomez! 👋
 
-I'm a full-stack developer passionate about building web applications and Minecraft mods. I love exploring new technologies and sharing my knowledge with the community.
-
+I'm a full-stack developer passionate about building web applications and Minecraft mods. I love exploring new technologies and sharing my knowledge with the community. Currently, I work as a **Programmer for DiosesMC** and as a **DevOps Engineer for Folagor03**, ensuring maximum performance and stability for large communities.
 ---
 
 ## 🖥️🌐 Hosting Company
@@ -20,7 +19,7 @@ I'm currently developing my own hosting company, **PonchisaoHosting**. While the
 ## 🔭 Currently working on..
 - A Fan-Made mod of Permadeath (Original design by KernelFreeze): [PERMADEATH-MOD](https://github.com/ponchisao326/PERMADEATH-MOD)
 - A custom minecraft launcher created in rust with Tauri 2.0 and custom libraries: [PERMADEATH-LAUNCHER](https://github.com/PERMADEATH-PROJECT/PERMADEATH-LAUNCHER)
-- A hole final degree project based on the Permadeath mod: [PERMADEATH-PROJECT](https://github.com/PERMADEATH-PROJECT)
+- A whole final degree project based on the Permadeath mod: [PERMADEATH-PROJECT](https://github.com/PERMADEATH-PROJECT)
 - A minecraft mod to enable or disable the rendering of specific entities directly through a user-friendly configuration menu: [Entity Render Disabler](https://github.com/ponchisao326/EntityRenderDisabler/)
 
 ---
@@ -36,7 +35,7 @@ I'm currently developing my own hosting company, **PonchisaoHosting**. While the
 ---
 
 ## 🌱 Currently Learning
-- Cross-Platform Application Development (CPAD)
+- Neural Networks & Big Data
 
 ---
 
